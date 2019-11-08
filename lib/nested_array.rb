@@ -57,7 +57,7 @@ def array_literal_matrix
   "Michael Pemulis"
 ]
     ]
-  puts array.sort 
+  return array.sort 
 end
 
 def matrix_lookup(matrix, row, column)
